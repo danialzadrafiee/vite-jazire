@@ -4,7 +4,7 @@
 SERVER_USER="root"
 SERVER_HOST="144.172.109.157"
 PROJECT_PATH="/var/www/vite-jazire"
-PM2_PROCESS="jazire-99001"
+PM2_PROCESS="jazire-5270"
 NVM_PATH="/root/.nvm/nvm.sh"
 
 # Deployment options

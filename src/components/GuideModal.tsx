@@ -149,7 +149,6 @@ const GuideModal: React.FC = () => {
                <div><strong>واریز کردید؟</strong> → ۴۰% برای خودتون</div>
                <div><strong>آدم آوردید؟</strong> → ۵۰% از واریز اونا</div>
                <div><strong>اونا آدم آوردن؟</strong> → ۱۰% از واریز اونا</div>
-               <div className="text-lg font-bold text-success mt-2">🚀 بیشتر بیارید = بیشتر درآمد!</div>
              </div>
            </div>
          </div>
